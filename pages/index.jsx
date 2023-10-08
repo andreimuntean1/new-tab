@@ -220,7 +220,7 @@ function App() {
     });
   };
 
-  // TODO: bagă animații la popup-uri, light mode
+  // TODO: light mode
 
   return (
     <>
