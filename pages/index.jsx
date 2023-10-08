@@ -220,8 +220,6 @@ function App() {
     });
   };
 
-  // TODO: light mode
-
   return (
     <>
       <Head>
